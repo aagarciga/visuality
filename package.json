@@ -1,0 +1,23 @@
+{
+  "name": "visuality",
+  "version": "1.0.0",
+  "description": "Design system tools and generators",
+  "main": "src/index.js",
+  "scripts": {
+    "scale": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aagarciga/visuality.git"
+  },
+  "author": "Alex Alvarez Gárciga <aagarciga@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aagarciga/visuality/issues"
+  },
+  "homepage": "https://github.com/aagarciga/visuality#readme",
+  "dependencies": {
+    "chroma-js": "^2.4.2"
+  }
+}
